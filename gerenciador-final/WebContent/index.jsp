@@ -21,6 +21,7 @@ Bem vindo ao nosso gerenciador de empresas!<br/>
 <form action="executa" method="POST">
 	<input type="hidden" name="tarefa" value="Logout" />
 	<input type="submit" value="Deslogar" />
+	<!-- teste -->
 </form>
 
 </body>
